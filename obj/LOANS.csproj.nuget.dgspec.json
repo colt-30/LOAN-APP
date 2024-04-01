@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rajesh kumar\\Desktop\\LOANS\\LOANS.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Desktop\\LOAN APP\\LOANS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rajesh kumar\\Desktop\\LOANS\\LOANS.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Desktop\\LOAN APP\\LOANS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rajesh kumar\\Desktop\\LOANS\\LOANS.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\LOAN APP\\LOANS.csproj",
         "projectName": "LOANS",
-        "projectPath": "C:\\Users\\rajesh kumar\\Desktop\\LOANS\\LOANS.csproj",
-        "packagesPath": "C:\\Users\\rajesh kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rajesh kumar\\Desktop\\LOANS\\obj\\",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\LOAN APP\\LOANS.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\LOAN APP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rajesh kumar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -82,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
